@@ -24,8 +24,9 @@ int			check_redirections(t_list *command)
 		if (is_redirection(token->text))
 		{
 			flags = get_redir_flags(token->text);
-			command = command->next;
-			token = (t_token*)command->content;
+			if (!(command = command->next))
+        return (1);
+      token = (t_token*)command->content;
 			if ((fd = open(token->text, flags, 0666)) < 0 || close(fd) < 0)
 				return (0);
 		}
