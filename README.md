@@ -1,4 +1,4 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/24fe71c09a0b4531b97dc0a0cc690c5c)](https://www.codacy.com/manual/nforay/minishell?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nforay/minishell&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2f97d95ad4b44d0fba3ac69861fb3656)](https://www.codacy.com/gh/nforay/minishell/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nforay/minishell&amp;utm_campaign=Badge_Grade)
 
 Projet réalisé avec [@mbourand]( https://github.com/mbourand )
 
